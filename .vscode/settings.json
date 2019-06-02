@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "Makefile.*": "makefile",
+        "*.shader": "glsl",
+        "iosfwd": "cpp",
+        "__config": "cpp",
+        "istream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "cmake.installPrefix": "${workspaceRoot}/bin"
+}
